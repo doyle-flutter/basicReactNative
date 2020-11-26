@@ -1,4 +1,11 @@
-// 기존 코드의 내용을 최대한 살려서 비교할 수 있도록하였습니다
+// @ 기존 코드의 내용을 최대한 살려서 비교할 수 있도록하였습니다
+
+// @ install [ terminal ]
+// > npm i @react-navigation/native
+// > expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+// > pod install
+// > npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+// > npx pod-install ios
 
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
