@@ -7,6 +7,19 @@
 // > npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
 // > npx pod-install ios
 
+// @ install 2 [ terminal ]
+// [x] Satck Navigation 
+// > npm install --save @react-navigation/stack
+// [ ] Drawer Navigation
+// > npm install --save @react-navigation/drawer 
+// [ ] Bottom Tab Navigation 
+// > npm install --save @react-navigation/bottom-tabs
+// [ ] Material Bottom Tap Navigation 
+// > npm install --save @react-navigation/material-bottom-tabs react-native-paper
+// [ ] Material Top Tab Navition
+// > npm install --save @react-navigation/material-top-tabs react-native-tab-view
+
+
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { 
