@@ -1,3 +1,7 @@
+// @ 페이지 이동 : Push / Pop(AppBar)
+// - page1 : Nav 
+// - page2 : MainPage
+
 // @ 기존 코드의 내용을 최대한 살려서 비교할 수 있도록하였습니다
 
 // @ install [ terminal ]
