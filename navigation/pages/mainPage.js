@@ -13,6 +13,12 @@ class MainPage extends Component{
             viewTxt : '안녕하세요'
         });
     }
+    // @ 'componentWillMount' || 'componentDidMount'
+    // componentDidMount(){
+    //    this.setState({
+    //        viewTxt : '안녕하세요'
+    //    });
+    // }
     
     render(){
         return (
