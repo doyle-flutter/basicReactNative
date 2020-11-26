@@ -7,7 +7,7 @@ import {
 } from 'react-native';
 import { Appbar } from 'react-native-paper';
 import MainPage from './pages/mainPage.js';
-import Nav from './navigation/nav.js';
+import Nav from './pages/nav.js';
 
 import 'react-native-gesture-handler';
 import {createStackNavigator} from '@react-navigation/stack';
