@@ -75,7 +75,7 @@ class MainPage extends Component{
         );
     }
 
-    VirtualizedListExample(){
+    FlatListExample(){
         return (
             <View style={{flex:1}}>
                 <Text style={{fontSize: 18, fontWeight:'bold', textAlign:'center', margin: 10}}>{"DocExamServer - RN"}</Text>
