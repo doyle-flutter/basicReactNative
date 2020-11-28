@@ -67,7 +67,7 @@ class MainPage extends Component{
                         (
                             this.state.docServerData.length === 0
                                 ? <Text>{"Lodding..."}</Text>
-                                : this.VirtualizedListExample()
+                                : this.FlatListExample()
                         )
                     }
                 </View>
