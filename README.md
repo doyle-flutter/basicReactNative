@@ -1,7 +1,7 @@
 # basicReactNative
 ReactNative - JS
 
-[Youtube 재생목록](https://www.youtube.com/playlist?list=PLIKnSA4GMR4MNR4iYC7_tsc394rZU_tjM)
+### Youtube [재생목록 보러가기](https://www.youtube.com/playlist?list=PLIKnSA4GMR4MNR4iYC7_tsc394rZU_tjM)
 - [x] 1. 샘플 [이동](https://github.com/doyle-flutter/basicReactNative/tree/main/start)
 - [x] 2. 컴포넌트 분리 [이동](https://github.com/doyle-flutter/basicReactNative/tree/main/detachAndState)
 - [x] 3. 화면 이동 [이동](https://github.com/doyle-flutter/basicReactNative/tree/main/navigation)
