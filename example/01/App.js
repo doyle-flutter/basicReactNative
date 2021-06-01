@@ -1,3 +1,7 @@
+// [ EXPO ]
+// https://reactnavigation.org/docs/params
+// https://docs.expo.io/versions/latest/sdk/webview/
+
 import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { SafeAreaView, ScrollView, Text, View, Image, Button } from 'react-native';
