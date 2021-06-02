@@ -1,3 +1,8 @@
+// *
+// functions 에서 expo noti 로 보내기 위해서
+// accessToken 생성 후 입력 필요(expo 홈페이지에서 생성 가능)
+
+// --- 터미널 요약
 // firebase login
 // firebase init
 // firebase deploy
