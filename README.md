@@ -7,12 +7,7 @@ ReactNative - JS
 - [x] 3. 화면 이동 [코드](https://github.com/doyle-flutter/basicReactNative/tree/main/navigation) / [영상](https://youtu.be/vrGz6YHsg1c?list=PLIKnSA4GMR4MNR4iYC7_tsc394rZU_tjM)
 - [x] 4. 서버 연결 HTTP - Fetch with Node.js(express) [코드](https://github.com/doyle-flutter/basicReactNative/tree/main/httpConnect) / [영상](https://youtu.be/g2E3bGH3YWg?list=PLIKnSA4GMR4MNR4iYC7_tsc394rZU_tjM)
 - [x] 5. 서버 연결 HTTP - Fetch - 디자인 및 Socket.io 소켓 통신 with Node.js(Express) [코드](https://github.com/doyle-flutter/basicReactNative/tree/main/httpConnectDesignAndSocketio) / [영상](https://youtu.be/H0jYFDMuoBA?list=PLIKnSA4GMR4MNR4iYC7_tsc394rZU_tjM)
-- [ ] 6. Socket.io 및 디자인 
-- [ ] 7. redux || Context & Hook
-- [ ] 8. Permission
-- [ ] * Components
-- [ ] * Project : OPen API
-- [ ] * Native Code & Func
+- [ ] 6. 준비 중...
 
 
 ### 👨‍💻Example[EXPO] - FunctionalComponents
